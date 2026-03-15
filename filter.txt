@@ -6,4 +6,17 @@
 ! Expires: 1 days
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
+
+! --- Scriptlet to Block Anti-Adblock ---
+! This targets common 'adj' or 'block' detection variables
+*##+js(set-constant, canRunAds, true)
+*##+js(set-constant, adsAllowed, true)
+*##+js(set-constant, isAdBlockActive, false)
+
+! --- Generic Scriptlet to Abort Anti-Adblock Scripts ---
+! This stops scripts that look for "adblock" or "detected"
+*##+js(is-visible, #adblock-msg)
+*##+js(abort-on-property-read, adsBlocked)
+
+!#include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 !#include filter1-clickadu.txt
