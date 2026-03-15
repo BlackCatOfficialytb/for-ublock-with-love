@@ -7,5 +7,5 @@
 ! Homepage: https://github.com//BlackCatOfficialytb/for-ublock-with-love
 
 ! --- Include sub-filters ---
-!#include filter1.txt
+!#include filter1-clickadu.txt
 !#include filter2.txt
