@@ -1,6 +1,6 @@
 # 🛡️ BlackCatOfficial's Blocking Trash Ads (Made in VN)
 
-**Specialized ad-blocking for the Vietnamese web.**
+**Specialized ad-blocking made by a Vietnamese guy.**
 
 > [!IMPORTANT]  
 > **This list is designed EXCLUSIVELY for [uBlock Origin](https://ublockorigin.com/).** > It uses advanced `!#include` directives and syntax that are not supported by Adblock Plus (ABP) or AdGuard.
