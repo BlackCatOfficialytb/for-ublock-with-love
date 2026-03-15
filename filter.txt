@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[uBlock Origin]
 ! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN)
 ! Description: Blocks Vietnamese ads missed by standard lists.
 ! Version: 1.0.0
