@@ -1,1 +1,2 @@
-||https://hr.enstatehelibus.com^
+||*.enstatehelibus.com^$all
+||sliwercohue.top^$all
