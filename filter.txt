@@ -6,5 +6,4 @@
 ! Expires: 1 days
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
-! --- Include sub-filters ---
-!#include https://raw.githubusercontent.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter/refs/heads/main/filter1-clickadu.txt
+!#include filter1-clickadu.txt
