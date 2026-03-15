@@ -4,9 +4,7 @@
 
 > [!IMPORTANT]  
 > **This list is designed EXCLUSIVELY for [uBlock Origin](https://ublockorigin.com/).**
-
 > It uses advanced `!#include` directives and syntax that are not supported by Adblock Plus (ABP) or AdGuard.
-
 > You **MUST DISABLE ADBLOCK/ADBLOCK PLUS/ADGUARD BEFORE INSTALLING** this filter
 
 ---
